@@ -1,3 +1,5 @@
+[![Build Status](https://spscommerce.visualstudio.com/sre/_apis/build/status/LM%20Grouper%20testpipeline?branchName=azure-devops-pipeline)](https://spscommerce.visualstudio.com/sre/_build/latest?definitionId=424&branchName=azure-devops-pipeline)
+
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
