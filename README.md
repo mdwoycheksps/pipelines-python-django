@@ -1,4 +1,4 @@
-[![Build Status](https://spscommerce.visualstudio.com/sre/_apis/build/status/LM%20Grouper%20testpipeline?branchName=azure-devops-pipeline)](https://spscommerce.visualstudio.com/sre/_build/latest?definitionId=424&branchName=azure-devops-pipeline)
+[![Build Status](https://dev.azure.com/mdwoychek/AzureDevops%20pipelines-python-django/_apis/build/status/mdwoycheksps.pipelines-python-django?branchName=master)](https://dev.azure.com/mdwoychek/AzureDevops%20pipelines-python-django/_build/latest?definitionId=1&branchName=master)
 
 # Sample Python app for Azure Pipelines docs
 
